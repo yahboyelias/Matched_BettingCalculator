@@ -11,10 +11,9 @@ This Python program serves as a matched betting calculator, aiding users in calc
 
 ## How to Use
 
-1. Run the program.
-2. Choose the desired odds type (European/Decimal or American/Moneyline).
-3. Input the necessary betting details, including stake amounts, odds, and commission rates.
-4. Get the calculated potential profit or loss for the matched betting scenario.
+1. Choose the desired odds type (European/Decimal or American/Moneyline).
+2. Input the necessary betting details, including stake amounts, odds, and commission rates.
+3. Get the calculated potential profit or loss for the matched betting scenario.
 
 ### Disclaimer
 
